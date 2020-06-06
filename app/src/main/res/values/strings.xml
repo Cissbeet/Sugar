@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sugar</string>
+    <string name="usename">小糖果</string>
+    <string name="str1">粉丝</string>
+    <string name="str2">关注</string>
+    <string name="str3">点赞</string>
+    <string name="bt1">设置</string>
+    <string name="bt2">添加</string>
+    <string name="bt3">头像</string>
+</resources>
