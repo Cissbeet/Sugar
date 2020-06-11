@@ -9,7 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PageChange"></activity>
+        <activity android:name=".AmeTeleplay"></activity>
+        <activity android:name=".ZongTeleplay" />
+        <activity android:name=".ChinaTeleplay" />
+        <activity android:name=".HotTeleplay" />
+        <activity android:name=".ColdMovies" />
+        <activity android:name=".HightMovies" />
+        <activity android:name=".NewMovies" />
+        <activity android:name=".HotMovies" />
+        <activity android:name=".PageChange" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
